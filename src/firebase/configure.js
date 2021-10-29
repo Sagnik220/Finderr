@@ -15,8 +15,7 @@ import "firebase/firestore";
     measurementId: "G-BKH1V576ZT"
   };
   // Initialize Firebase
-  const firebase=app.firebase.initializeApp(firebaseConfig);
-  const firebaseanalytics=firebase.analytics();
-  const firestore=firbase.firestore();
+  const firebase=app.initializeApp(firebaseConfig);
+  const firestore=firebase.firestore();
 
-  export {firestore, firebase,app,firebaseanalytics};
+  export {firestore, firebase, app};

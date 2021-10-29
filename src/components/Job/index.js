@@ -60,7 +60,7 @@ export default (props) => {
                         </Typography>
                     </Grid>
                     <Grid>
-                        <Button p={2} variant="outlined">Check</Button>
+                        <Button onClick={props.open} p={2} variant="outlined">Check</Button>
                     </Grid>
                 </Grid>
             </Grid>
