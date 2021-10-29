@@ -6,7 +6,7 @@ import Searchbar from "./components/Searchbar";
 import Job from "./components/Job";
 import NewJobModal from "./components/Job/NewJobModal";
 import ViewJobModal from "./components/Job/ViewJobModal";
-import {firestore,app,firebase} from './firebase/configure';
+import {firestore,app} from './firebase/configure';
 import {Close as CloseIcon} from '@material-ui/icons';
 
 

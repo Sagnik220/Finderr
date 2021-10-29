@@ -18,4 +18,4 @@ import "firebase/firestore";
   const firebase=app.initializeApp(firebaseConfig);
   const firestore=firebase.firestore();
 
-  export {firestore, firebase, app};
+  export {firestore, app};
