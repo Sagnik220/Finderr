@@ -4,6 +4,14 @@ The idea behind FreshFind is to make freshers aware of various off-campus Job & 
 
 Techstack used while making FreshFind: **React, Firebase**
 
+### Analytics of the Product:
+<img src="extras/Analytics.png">
+
+
+### Demo:
+
+<video src="extras/video.webm">
+
 FreshFind Link: https://freshfind.netlify.app/
 
 
