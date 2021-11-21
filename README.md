@@ -10,7 +10,7 @@ Techstack used while making FreshFind: **React, Firebase**
 
 ### Demo:
 
-<video src="extras/video.webm">
+<video src="extras/video.mp4">
 
 FreshFind Link: https://freshfind.netlify.app/
 
