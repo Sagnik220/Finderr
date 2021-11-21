@@ -5,6 +5,11 @@ The idea behind **FreshFind** is to make freshers aware of various **off-campus 
 Techstack used while making FreshFind: **React, Firebase**
 
 -------
+### Application Link:
+
+FreshFind Link: https://freshfind.netlify.app/
+
+-------
 
 ### Analytics of the Product:
 <img src="extras/Analytics.png">
@@ -13,10 +18,7 @@ Techstack used while making FreshFind: **React, Firebase**
 
 ### Demo:
 
-<video src="extras/video.mp4">
-
-FreshFind Link: https://freshfind.netlify.app/
-
+<videos src="extras/video.mp4">
 
 
 
