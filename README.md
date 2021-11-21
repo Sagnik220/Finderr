@@ -18,7 +18,7 @@ FreshFind Link: https://freshfind.netlify.app/
 
 ### Demo:
 
-<videos src="extras/video.mp4">
+<img src="extras/video.gif">
 
 
 
